@@ -1,4 +1,7 @@
 package com.bawei.demo_022101;
+/**
+ * 这是第一天日考的类注释
+ */
 
 import androidx.appcompat.app.AppCompatActivity;
 
